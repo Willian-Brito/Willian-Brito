@@ -34,5 +34,5 @@
 ![Snake animation](https://github.com/Willian-Brito/Willian-Brito/blob/output/github-contribution-grid-snake.svg)
 
 <h3>💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:<br></h3>
- <h3>Portifólio: https://willian-brito.github.io/
+ <h3>Portifólio: <a href="https://willian-brito.github.io" target="_blank">https://willian-brito.github.io</a>
 </div>
