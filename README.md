@@ -1,8 +1,8 @@
 <h1 align="center">Bem vindo! Meu nome é Willian Ferreira Brito...</h1> 
 <h3 align="center">Trabalho como Desenvolvedor Web Full Stack, e sou Apaixonado por Tecnologia 🤩</h3>
 
-💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:
-<b>Portifólio: </b>https://willian-brito.github.io/
+💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:<br>
+<b>Portifólio: https://willian-brito.github.io/</b>
 
 <div align="center">
   <a href="https://github.com/Willian-Brito">
