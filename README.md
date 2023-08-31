@@ -1,9 +1,6 @@
 <h1 align="center">Bem vindo! Meu nome é Willian Ferreira Brito...</h1> 
 <h3 align="center">Trabalho como Desenvolvedor Web Full Stack, e sou Apaixonado por Tecnologia 🤩</h3>
 
-💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:<br>
-<b>Portifólio: https://willian-brito.github.io/</b>
-
 <div align="center">
   <a href="https://github.com/Willian-Brito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,3 +33,6 @@
   
 ![Snake animation](https://github.com/Willian-Brito/Willian-Brito/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:<br>
+ <b>Portifólio: https://willian-brito.github.io/</b>
