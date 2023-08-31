@@ -32,7 +32,7 @@
   <a href="https://www.facebook.com/willian.brito.908390"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/Willian-Brito/Willian-Brito/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 💡 Convido você a conhecer e acompanhar de perto o desenvolvimento do meu trabalho:<br>
  <b>Portifólio: https://willian-brito.github.io/</b>
+</div>
