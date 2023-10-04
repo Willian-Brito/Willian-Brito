@@ -2,7 +2,7 @@
 <h3 align="center">Trabalho como Desenvolvedor Web Full Stack, e sou Apaixonado por Tecnologia 🤩</h3>
 
 <div align="center">
-  <a href="https://github.com/Willian-Brito">
+  <a href="https://github.com/Willian-Brito"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willian-Brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-Brito&layout=compact&langs_count=7&theme=dracula"/>
 </div>
