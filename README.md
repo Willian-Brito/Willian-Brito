@@ -9,30 +9,43 @@
   
 <h3 align="center">Linguagens e Ferramentas que já utilizei</h3>
  <p align="center">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Willian-DotNet" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-  <img align="center" alt="Willian-MSSQL" width="40" height="40" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" /> 
-  <img align="center" alt="Willian-Angular" height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png">
-  <img align="center" alt="Willian-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Willian-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Willian-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Willian-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Willian-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Willian-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="center" alt="Willian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg">
+
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
+  <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" /> 
+
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
+  
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prometheus/prometheus-original.svg">
+  
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg">
+
+  
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg">
+
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg">  
+
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
+
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" />
+  <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" />
+  <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" />
+  
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
   
   ##
