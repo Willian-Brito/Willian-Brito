@@ -4,16 +4,16 @@
 <div align="center">
 
   <!-- header -->
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
+  <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
 
   <!-- stats -->
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/stats-card.svg">
+  <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/stats-card.svg">
 
   <!-- tech stack -->
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/tech-stack.svg">
 
   <!-- projects -->
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/refs/heads/main/assets/generated/projects-constellation.svg">
+  <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/refs/heads/main/assets/generated/projects-constellation.svg">
   
 </div>
   
