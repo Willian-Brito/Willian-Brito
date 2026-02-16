@@ -1,9 +1,4 @@
-<h1 align="center">Bem vindo! Meu nome é Willian Ferreira Brito...</h1> 
-<h3 align="center">Trabalho como Desenvolvedor Web Full Stack, e sou Apaixonado por Tecnologia 🤩</h3>
-
-<div align="center">
-
-  <!-- header -->
+<!-- header -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
 
   <!-- stats -->
@@ -14,8 +9,6 @@
 
   <!-- projects -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/refs/heads/main/assets/generated/projects-constellation.svg">
-  
-</div>
   
 <h3 align="center">Linguagens e Ferramentas que já utilizei</h3>
  <p align="center">
