@@ -1,5 +1,4 @@
 
-<div align="center">
   <!-- header -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
 
@@ -54,7 +53,6 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 -->
-</div>
   
   ##
   
