@@ -1,4 +1,3 @@
-
   <!-- header -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
 
@@ -56,7 +55,6 @@
   
   ##
   
-<div align="center" style="display: flex; justify-content: center;">
   <!--
     <a href = "mailto:willianbrito05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/willian-ferreira-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -67,5 +65,3 @@
   <a href = "mailto:willian_brito00@gmail.com"><img style="margin-left: 10px;" src="https://camo.githubusercontent.com/a982f8e4aaab1a1874c20900b82e3ccb8726bbca4b2dde1447f12ca5f76ae29f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d3038306331343f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d666666666666" target="_blank"></a>
   
   <!-- ![Snake animation](https://github.com/Willian-Brito/Willian-Brito/blob/output/github-contribution-grid-snake.svg)  -->
-
-</div>
