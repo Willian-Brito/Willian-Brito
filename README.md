@@ -1,12 +1,12 @@
   <!-- header -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/galaxy-header.svg">
-
+  <br>
   <!-- stats -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/stats-card.svg">
-
+  <br>
   <!-- tech stack -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/bfbc59eb6a86912646c44791f4d06f50a94f97b2/assets/generated/tech-stack.svg">
-
+  <br>
   <!-- projects -->
   <img align="center" src="https://raw.githubusercontent.com/Willian-Brito/galaxy-profile/refs/heads/main/assets/generated/projects-constellation.svg">
 
